@@ -78,6 +78,8 @@ void main()
 	WriteImage_color("C:\\Users\\김송란\\Documents\\GitHub\\Study\\lightfield\\영상출력테스트5.bmp", outimg, lens*sensor, lens*sensor);
 	WriteImage_color("C:\\Users\\김송란\\Documents\\GitHub\\Study\\lightfield\\영상출력테스트sub5.bmp", SubApertureImg, lens*sensor, lens*sensor);
 
+	printf("test1");
+
 	
 	
 	
